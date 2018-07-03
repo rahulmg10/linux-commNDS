@@ -12,3 +12,5 @@ cd ..
 touch about
 nano About
 ls
+cp About Linux
+mv About Devops
