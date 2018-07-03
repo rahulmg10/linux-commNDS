@@ -1,0 +1,14 @@
+mkdir Devops
+cd Decops
+touch Linuxcommands
+pwd
+mkdir LinuxOS
+cd LinxOS
+touch About
+name About
+my LinuxOS Linux
+pwd
+cd ..
+touch about
+nano About
+ls
